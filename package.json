@@ -1,6 +1,6 @@
 {
     "name": "vscode-azureextensionpack",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "ms-vscode",
     "displayName": "Azure Extension Pack",
     "description": "A collection of extensions for working with Azure resources in VS Code",
@@ -11,11 +11,11 @@
     },
     "icon": "azure-icon.png",
     "repository": {
-        "url": "https://github.com/chrisdias/vscode-azure-pack"
+        "url": "https://github.com/microsoft/vscode-azure-pack"
     },
-    "homepage": "https://github.com/chrisdias/vscode-azure-pack",
+    "homepage": "https://github.com/microsoft/vscode-azure-pack",
     "bugs": {
-        "url": "https://github.com/chrisdias/vscode-azure-pack/issues"
+        "url": "https://github.com/microsoft/vscode-azure-pack/issues"
     },
     "keywords": [
         "azure"
