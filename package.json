@@ -21,7 +21,8 @@
         "azure"
     ],
     "categories": [
-        "Other"
+        "Other",
+        "Extension Pack"
     ],
     "engines": {
         "vscode": "^1.5.0"
