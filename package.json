@@ -22,7 +22,7 @@
     ],
     "categories": [
         "Other",
-        "Extension Pack"
+        "Extension Packs"
     ],
     "engines": {
         "vscode": "^1.5.0"
