@@ -33,6 +33,7 @@
         "formulahendry.azure-iot-toolkit",
         "ms-mssql.mssql",
         "msazurermtools.azurerm-vscode-tools",
-        "usqlextpublisher.usql-vscode-ext"
+        "usqlextpublisher.usql-vscode-ext",
+        "azuresdkteam.azurenodeessentials"
     ]
 }

@@ -10,6 +10,8 @@ The Azure Extension Pack installs a collection of extensions for working with Az
 
 * The [Azure Resource Manager (ARM) Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) for VS Code provides a rich editing experience for Azure Resource Manager deployment templates and template language expressions. For example, IntelliSense for TLE function names, parameter references, signature help, GoTo Definition, Peek Definitions, and Find All References (Shift+F12) as well as Errors and Warnings, making it quick and easy to author ARM templates in VS Code.
 
+* The [Azure Node Essentials](https://marketplace.visualstudio.com/items?itemName=azuresdkteam.azurenodeessentials) extension provides tools for NodeJs developers working with Azure SDKs. Maintained by the Azure Node SDK Team, this extension provides snippets and commands that generate code to work with the Azure Node.Js SDK.
+
 ## Micro-Services
 
 The [Docker Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) make it easy to develop and deploy containerized micro-service based applications using Docker containers. 
