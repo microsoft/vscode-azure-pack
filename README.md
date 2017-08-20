@@ -10,6 +10,12 @@ The Azure Extension Pack installs a collection of extensions for working with Az
 
 * The [Azure Resource Manager (ARM) Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) for VS Code provides a rich editing experience for Azure Resource Manager deployment templates and template language expressions. For example, IntelliSense for TLE function names, parameter references, signature help, GoTo Definition, Peek Definitions, and Find All References (Shift+F12) as well as Errors and Warnings, making it quick and easy to author ARM templates in VS Code.
 
+* The [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) for VS Code provide an enhanced editing experience when authoring Azure CLI 2.0 commands, with full completions (IntelliSense), the ability to invoke one or more commands in the terminal, and the ability to easily view and format results as a separate JSON document.
+
+* The [Visual Studio Team Services](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team) extension makes it easy to connect to your Team Services and Team Foundation Servers, allowing you to easily monitory builds, pull requests, and work items for your TFVC or Git source repositories.
+
+* The [Azure Application Insights](https://marketplace.visualstudio.com/items?itemName=VisualStudioOnlineApplicationInsights.application-insights) extension brings information from your production services right into the editor (via Code Lenses), helping you to find and fix issues even faster.
+
 ## Micro-Services
 
 The [Docker Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) make it easy to develop and deploy containerized micro-service based applications using Docker containers. 
@@ -22,14 +28,17 @@ The [Azure Data Lake Tools for VS Code](https://marketplace.visualstudio.com/ite
 
 ## Databases
 
-The [mssql preview for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) extension provides support for developing [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2016), [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) and [SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/) with a rich set of functionalities.
+The [Microsoft SQL](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) extension provides support for developing [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2016), [Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/) and [SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/) with a rich set of functionalities.
 
 For example, create and manage connection profiles and most recently used connections. Write T-SQL script with IntelliSense, snippets, syntax colorizations, error validations and GO batch separator. Execute scripts, view the results in a document, and save results to json or csv file format and view in the editor.
-
 
 ## Internet of Things
 
 The [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit) for VS Code makes it easy to develop and connect your [IoT applications to Azure](https://docs.microsoft.com/en-us/azure/index#pivot=services&panel=iot). With this extension, you can send messages to the Azure IoT Hub (device-to-cloud message), monitor device-to-cloud messages, manage devices, and discove devices connected via Ethernet, USB serial, and over WiFi.
+
+## Functions
+
+The [Azure Functions Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.azure-functions-tools) provides completions (IntelliSense) in `host.json`, `function.json`, and `proxies.json`. Also included are snippets for JavaScript and TypeScript functions.
 
 ## Installation
 
