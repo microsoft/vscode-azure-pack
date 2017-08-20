@@ -1,6 +1,6 @@
 {
     "name": "vscode-azureextensionpack",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "ms-vscode",
     "displayName": "Azure Extension Pack",
     "description": "A collection of extensions for working with Azure resources in VS Code",
@@ -21,11 +21,11 @@
         "azure"
     ],
     "categories": [
-        "Other",
+        "Azure",
         "Extension Packs"
     ],
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^1.14.0"
     },
     "extensionDependencies": [
         "PeterJausovec.vscode-docker",
@@ -33,6 +33,10 @@
         "formulahendry.azure-iot-toolkit",
         "ms-mssql.mssql",
         "msazurermtools.azurerm-vscode-tools",
-        "usqlextpublisher.usql-vscode-ext"
+        "usqlextpublisher.usql-vscode-ext",
+        "ms-vscode.azurecli",
+        "johnpapa.azure-functions-tools",
+        "ms-vsts.team",
+        "VisualStudioOnlineApplicationInsights.application-insights"
     ]
 }
