@@ -34,7 +34,7 @@ For example, create and manage connection profiles and most recently used connec
 
 ## Internet of Things
 
-The [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) for VS Code makes it easy to develop and connect your [IoT applications to Azure](https://docs.microsoft.com/en-us/azure/index#pivot=services&panel=iot). With this extension, you can send messages to the Azure IoT Hub (device-to-cloud message), monitor device-to-cloud messages, manage devices, and discover devices connected via Ethernet, USB serial, and over WiFi.
+The [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) for VS Code makes it easy to develop and connect your [IoT applications to Azure](https://docs.microsoft.com/en-us/azure/index#pivot=services&panel=iot). With this extension, you can interact with Azure IoT Hub, manage devices connected to Azure IoT Hub, and develop with code snippets for Azure IoT Hub.
 
 ## Functions
 
