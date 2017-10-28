@@ -37,6 +37,9 @@
         "ms-vscode.azurecli",
         "johnpapa.azure-functions-tools",
         "ms-vsts.team",
-        "VisualStudioOnlineApplicationInsights.application-insights"
+        "VisualStudioOnlineApplicationInsights.application-insights",
+        "ms-azuretools.vscode-azureappservice",
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-azuretools.vscode-cosmosdb"
     ]
 }
