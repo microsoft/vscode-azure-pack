@@ -46,9 +46,7 @@ The Azure Extension Pack installs a collection of extensions for working with Az
 
 ## Installation
 
-VS Code will ask you if you want to install all of the extension's dependencies, which are all of the great extensions listed above (so say yes!). In addition, some of these extensions will also install the [Azure Account extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) which provides a single Azure login and subscription filtering experience.
-
-![install](install.png)
+By intalling this extension you will install all of the extensions listed above. Some of these extensions will also install the [Azure Account extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) which provides a single Azure login and subscription filtering experience.
 
 You can uninstall all the extensions by uninstalling this extension pack.
 
