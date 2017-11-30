@@ -40,6 +40,7 @@
         "PeterJausovec.vscode-docker",
         "usqlextpublisher.usql-vscode-ext",
         "VisualStudioOnlineApplicationInsights.application-insights",
-        "vsciot-vscode.azure-iot-toolkit"
+        "vsciot-vscode.azure-iot-toolkit",
+        "vsciot-vscode.azure-iot-edge"
     ]
 }
