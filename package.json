@@ -29,7 +29,6 @@
     },
     "extensionDependencies": [
         "bradygaster.azuretoolsforvscode",
-        "johnpapa.azure-functions-tools",
         "ms-azuretools.vscode-azureappservice",
         "ms-azuretools.vscode-azurefunctions",
         "ms-azuretools.vscode-cosmosdb",
