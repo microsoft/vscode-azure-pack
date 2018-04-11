@@ -10,7 +10,7 @@ The Azure Extension Pack installs a collection of extensions for working with Az
 
 ## Functions (Serverless Computing)
 
-* The [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions extension lets you quickly browse, create, manage, deploy, and even debug Azure functions locally.
+* The [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) extension lets you quickly browse, create, manage, deploy, and even debug Azure functions locally.
 
 ## Micro-Services
 
