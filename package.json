@@ -27,7 +27,7 @@
     "engines": {
         "vscode": "^1.14.0"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azureappservice",
         "ms-azuretools.vscode-azurefunctions",
