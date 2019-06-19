@@ -1,6 +1,6 @@
 {
     "name": "vscode-azureextensionpack",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "publisher": "ms-vscode",
     "displayName": "Azure Extension Pack",
     "description": "The ultimate collection of extensions for working with Azure in VS Code!",
