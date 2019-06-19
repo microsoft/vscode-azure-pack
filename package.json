@@ -37,7 +37,7 @@
         "ms-vscode.azurecli",
         "ms-vsts.team",
         "msazurermtools.azurerm-vscode-tools",
-        "PeterJausovec.vscode-docker",
+        "ms-azuretools.vscode-docker",
         "usqlextpublisher.usql-vscode-ext",
         "VisualStudioOnlineApplicationInsights.application-insights",
         "vsciot-vscode.azure-iot-toolkit",

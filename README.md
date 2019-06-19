@@ -14,7 +14,7 @@ The Azure Extension Pack is the ultimate collection of extensions for working wi
 
 ## Micro-Services
 
-* The [Docker Tools](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) make it easy to develop and deploy containerized micro-service based applications using Docker containers. Use [Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/overview) to create a CI/CD pipeline to build your containerized applications, deploy them to the [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/), run web sites directly in [Azure App Services](https://docs.microsoft.com/en-us/azure/app-service/), and run multi-container systems at scale using the [Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/).
+* The [Docker Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) make it easy to develop and deploy containerized micro-service based applications using Docker containers. Use [Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/overview) to create a CI/CD pipeline to build your containerized applications, deploy them to the [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/), run web sites directly in [Azure App Services](https://docs.microsoft.com/en-us/azure/app-service/), and run multi-container systems at scale using the [Azure Container Service](https://docs.microsoft.com/en-us/azure/container-service/).
 
 * The [Kubernetes Tools](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)  make it easy to interact with your Kubernetes cluster through the command palette.
 
